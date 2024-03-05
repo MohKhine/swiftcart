@@ -354,10 +354,10 @@ table {
 .catagories{
     overflow: hidden;
 }
-.swiper-wrapper img{
+/*.swiper-wrapper img{
     height: 400px;
     width: 600px;
-}
+}*/
 
 .category__item {
     text-align: center;
