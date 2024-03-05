@@ -360,6 +360,7 @@ table {
 }*/
 
 .category__item {
+
     text-align: center;
     border: 1px solid var(--border-color);
     padding: 0.625rem 0.625rem 1.25rem;
@@ -436,10 +437,10 @@ table {
    
 }
 
-/*.product__images img{
+.product__images img{
     width: 800px;
     height: 300px;
-}*/
+}
 .product__banner,
 .product__images{
     position: relative;
@@ -710,9 +711,7 @@ table {
 .new__arrivals{
     overflow: hidden;
 }
-.product__images img{
-    display: block;
-}
+
 /*============== SHOWCASE ==============*/
 .showcase__container{
     grid-template-columns: repeat(4, 1fr);
